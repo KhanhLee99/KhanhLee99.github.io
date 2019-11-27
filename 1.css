@@ -175,7 +175,7 @@ padding-left: 740px;
 .xanh:hover{
 	/*height: 43px;*/
 	width: 198px;
-	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,0.16), 0 2px 15px 0 rgba(0,0,0,0.12);
 	background-color: white;
 	color: #38de8a;
 	border: solid 0.4px #38de8a;
